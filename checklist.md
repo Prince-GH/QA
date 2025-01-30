@@ -1,20 +1,31 @@
-## Check List for the manufacturing.
-- Raw materials inspection
-    - Verify quality certifications and suplier doc.
-- Equipment Calibration
-   - Esure all equipment is calibrated according to stanards.
-- Pre-Production Checklist
-  - Conduct a trial run to identify prtential issues. 
-- In-Process Inspections
-   - Regular key perfomance indicators (KPIs) such as cycle time and production rates.
-- Final Product ispection
-   - Perform visual ispection for defects
-- Documentation and Records
-   - Record all inspection result and deviations
-- Non-Conformance Management
-    - Segregate(sovle) 
-- Safety and Compliance
-    - Confirm complilance with industry regulations and standards. 
-- Packaging and storage 
-  - Check tem/ and humidity
--  Continuous imporvements
+# ✅ Manufacturing Checklist  
+
+## 📌 Raw Materials Inspection  
+- ✅ Verify quality certifications and supplier documents.  
+
+## ⚙️ Equipment Calibration  
+- ✅ Ensure all equipment is calibrated according to standards.  
+
+## 🏭 Pre-Production Checklist  
+- ✅ Conduct a trial run to identify potential issues.  
+
+## 📊 In-Process Inspections  
+- ✅ Monitor key performance indicators (KPIs) such as cycle time and production rates.  
+
+## 🔍 Final Product Inspection  
+- ✅ Perform a thorough visual inspection for defects.  
+
+## 📝 Documentation and Records  
+- ✅ Record all inspection results and deviations.  
+
+## 🚨 Non-Conformance Management  
+- ✅ Identify and segregate defective items for resolution.  
+
+## ⚠️ Safety and Compliance  
+- ✅ Ensure compliance with industry regulations and standards.  
+
+## 📦 Packaging and Storage  
+- ✅ Check temperature and humidity conditions.  
+
+## 📈 Continuous Improvements  
+- ✅ Implement strategies for ongoing efficiency and quality enhancement.  
